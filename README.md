@@ -61,11 +61,16 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
 
----
+<img width="542" height="882" alt="Screenshot 2025-09-14 180614" src="https://github.com/user-attachments/assets/5896baaf-2660-4a7a-aeb8-85620427634c" />
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
+<img width="1193" height="968" alt="Screenshot 2025-09-14 175306" src="https://github.com/user-attachments/assets/af23c584-3ab5-4273-bfad-08c97fedadf7" />
+
+
+<img width="1635" height="985" alt="Screenshot 2025-09-14 175231" src="https://github.com/user-attachments/assets/cd78719f-0f5c-4b3e-9ab6-13b159bddb3a" />
+
 
 ## 2. SUBTRACTION
 
@@ -106,18 +111,15 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
 
-#### Manual Calculations
 
-(Add your calculation here)
-
----
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="1577" height="1021" alt="Screenshot 2025-09-14 175332" src="https://github.com/user-attachments/assets/b63b69b9-4ad3-4b86-824a-05106e540b55" />
+
+<img width="980" height="900" alt="Screenshot 2025-09-14 175734" src="https://github.com/user-attachments/assets/504f61cf-a806-4a64-a1ac-2d7494d7fe1b" />
 
 ## 3. MULTIPLICATION
 
@@ -161,11 +163,15 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="518" height="791" alt="Screenshot 2025-09-14 181022" src="https://github.com/user-attachments/assets/b39f4496-245c-42cd-8e73-e64138e0ce46" />
 
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+![Uploading Screenshot 2025-09-14 175814.png…]()
+
+<img width="1451" height="941" alt="Screenshot 2025-09-14 175824" src="https://github.com/user-attachments/assets/ad848407-185e-401b-8ca1-1fa6cf4efdde" />
+
 
 ## 4. DIVISION
 
@@ -205,11 +211,15 @@ END
 |                         |                          |
 
 #### Manual Calculations
+<img width="443" height="841" alt="Screenshot 2025-09-14 181210" src="https://github.com/user-attachments/assets/e81faab0-ed40-4fc8-989b-2c3122085d9e" />
 
-(Add your calculation here)
 
----
 ## OUTPUT FROM MASM SOFTWARE
+
+![Uploading Screenshot 2025-09-14 175839.png…]()
+
+
+<img width="1503" height="987" alt="Screenshot 2025-09-14 175900" src="https://github.com/user-attachments/assets/5a87d525-7134-4f8e-bda4-65b0514786dc" />
 
 
 
